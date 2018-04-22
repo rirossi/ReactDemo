@@ -1,0 +1,31 @@
+{
+  "errorDetails": null,
+  "success": null,
+  "failure": null,
+  "airConfigurationList": {
+    "airConfigurations": [
+      {
+        "pointOfSaleKey": null,
+        "airConfigOptions": {
+          "browserType": "Default",
+          "deviceType": "Default",
+          "serviceName": "AirBoss",
+          "machineName": "Default",
+          "abacusID": "Default",
+          "instanceID": "Default"
+        },
+        "carrierSettingListType": null,
+        "providerIdentifierSettingListType": null,
+        "settingListType": {
+          "configurations": [
+            {
+              "key": "LIST_OF_TPIDS_FOR_AIRBOOKING_US",
+              "value": "1,4,12,69,70,30001,30010,30011,30012,30021,30024,30028,30029,30030,30031,80001,80004,70201,70301,70204,70205"
+            }
+          ]
+        },
+        "possettingListType": null
+      }
+    ]
+  }
+}
